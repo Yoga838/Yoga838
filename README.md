@@ -15,7 +15,7 @@ Currently i learning programming language such as Python, C#,Html,Css.
     - 🌱 I’m currently learning Python,C# and WebDev </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="spartancoc04@Gmail.com">Email me!</a>  </br>
+    - 📫 How to reach me: spartancoc04@Gmail.com Email me!  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
