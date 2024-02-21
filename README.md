@@ -11,7 +11,7 @@ Currently i learning programming language such as NextJs,ExpressJs,ReactJs,Pytho
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently Study on Jember University </br>
-    - 🌱 I’m currently learning Python,C# and WebDev </br>
+    - 🌱 I’m currently learning Python,C# and WebDev(expresssjs,nextjs,react,laravel) </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: spartancoc04@Gmail.com Email me!  </br>
