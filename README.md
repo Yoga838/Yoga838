@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Yoga!
-Currently i learning programming language such as NextJs,ExpressJs,ReactJs,Python,C#,Html,Css,JavaScript,Php.  
+Currently i learning programming language such as NextJs,ExpressJs,ReactJs,Laravel,Python,C#,  
 
 ### Tools:
 <p>
