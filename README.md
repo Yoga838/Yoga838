@@ -14,7 +14,9 @@ Currently i learning programming language such as NextJs,ExpressJs,ReactJs,Larav
     - 🌱 I’m currently learning Python,C# and WebDev(expresssjs,nextjs,react,laravel) </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: spartancoc04@Gmail.com Email me!  </br>
+    - 📫 How to reach me: </br> 
+    1. spartancoc04@Gmail.com  </br>
+    2. <a href ="wa.me/+6285204933611">wa.me/+6285204933611</a>  </br>
     - 😄 Pronouns: He/Him </br>
 </details>
 <p>
