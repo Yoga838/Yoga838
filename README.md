@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://reckdev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portofolio-Reckdev-blue?style=for-the-badge&logo=vercel" alt="Portfolio"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/ahmad-bagus-96aa48220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ahmad%20Bagus-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/bagus-prayoga/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ahmad%20Bagus-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>&nbsp;
   <a href="https://sindology.my.id/" target="_blank"><img src="https://img.shields.io/badge/Website-Sindology-lightgrey?style=for-the-badge" alt="Sindology"></a>
 </p>
 
